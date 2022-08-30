@@ -126,3 +126,37 @@ body{
 .text1{
     text-align: center;
 }
+a:hover, a:focus{
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.25em);
+    color:blanchedalmond;
+    font-size: 1.1em;
+    
+}
+form{
+    margin: 40px 200px;
+    padding: 50px 90px;
+    border-radius: 20px;
+    background-color: rgb(215, 248, 250);
+}
+#abd{
+    padding: 15px 18px;
+    border: 4px;
+    border-radius: 7px;
+    font-size: 15px;
+    font-weight: 800;
+}
+.btn3{
+    
+        background-color: aqua;
+        padding: 15px 18px;
+        border: 4px;
+        border-radius: 7px;
+        font-size: 15px;
+        font-weight: 800;
+        
+    
+}
+.cen{
+    text-align: center;
+}
