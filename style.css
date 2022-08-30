@@ -96,6 +96,7 @@ body{
 .last{
     background-color: black;
     width: 100%;
+    text-align: center;
 }
 .txt{
     color: white;
@@ -107,6 +108,21 @@ body{
     text-decoration: none;
     color: white;
     padding: 0 15px;
-   
     margin: auto;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.fy{
+    display: flex;
+    padding: 15px;
+    margin: 2px;
+    
+}
+.gap{
+    padding: 2px;
+}
+.text1{
+    text-align: center;
 }
